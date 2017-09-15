@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Java Developer Lagos</string>
+    <string name="internet_error">Device not connected,ensure you are connected, thanks</string>
+</resources>
